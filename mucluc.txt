@@ -1,0 +1,15 @@
+A. Đặt vấn đề
+B. Khởi động
+	I. Tổng quan dự án
+		1.1 giới thiệu dự án
+		1.2 các bên liên quan
+	II. Tôn chỉ dự án
+	III. Tài liệu mô tả công việc
+		3.1 phạm vi
+		3.2 thời gian
+		3.2 kinh phí
+	IV. Môi Trường dự án
+C. Kế hoặch
+D. Thực hiện
+E. chuyển giao
+F. kết luận
